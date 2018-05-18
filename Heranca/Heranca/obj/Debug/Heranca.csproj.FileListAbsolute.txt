@@ -1,0 +1,6 @@
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\bin\Debug\Heranca.exe.config
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\bin\Debug\Heranca.exe
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\bin\Debug\Heranca.pdb
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\obj\Debug\Heranca.csprojResolveAssemblyReference.cache
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\obj\Debug\Heranca.exe
+c:\users\1713623\documents\visual studio 2015\Projects\Heranca\Heranca\obj\Debug\Heranca.pdb
